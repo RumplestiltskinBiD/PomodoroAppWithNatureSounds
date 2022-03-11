@@ -16,7 +16,6 @@
     opacity: .6;
     font-size: 0;
     text-align: -webkit-center;
-
 }
 
 #forest{
@@ -24,7 +23,7 @@
     width: 25%;
     background-color: grey;
     display: inline-block;
-    font-size: 15px;
+    font-size: 30px;
     text-align: center;
     line-height: 50px;
     box-shadow:20px 20px 50px darkslategrey inset;
@@ -35,7 +34,7 @@
     width: 25%;
     background-color: grey;
     display: inline-block;
-    font-size: 15px;
+    font-size: 30px;
     text-align: center;
     line-height: 50px;
     box-shadow:20px 20px 50px darkslategrey inset;
@@ -46,7 +45,7 @@
     width: 25%;
     background-color: grey;
     display: inline-block;
-    font-size: 15px;
+    font-size: 30px;
     line-height: 50px;
     box-shadow:20px 20px 50px darkslategrey inset;
 }
@@ -56,12 +55,11 @@
     width: 25%;
     background-color: grey;
     display: inline-block;
-    font-size: 15px;
+    font-size: 30px;
     text-align: center;
     line-height: 50px;
     box-shadow:20px 20px 50px darkslategrey inset;
 }
-/*outline:*/
 
 #forest:hover{
     background-color: darkslategrey;
@@ -104,6 +102,8 @@
  #timer{
     opacity: .8;
     text-align: center;
+     font-size: x-large;
+     vertical-align: 30%;
     /*background-color: red;*/
     width: 200px;
     height: 200px;
@@ -153,6 +153,7 @@
     border-right: none;
     border-color: black;
     text-align: center;
+    font-size: large;
 }
 
 #enter > form{
@@ -164,6 +165,7 @@
     border-color: black;
     text-align: center;
 }
+
 
 
 

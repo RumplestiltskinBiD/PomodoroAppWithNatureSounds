@@ -31,19 +31,18 @@ let setMinutes = document.getElementById('minutes').value
 let resultTimer = document.getElementById('timer')
 
 resultTimer.innerHTML = setHours + ':' + setMinutes
-console.log(typeof setHours)
 
-//console.log(Number(i))
-//console.log(typeof i)
+
+
 let time_div = document.getElementById('timer');
-//poprobovat' sdelat' fynkciiy dlya time_div.onclick pered i i i2
+
 console.log(time_div)
 function timerJS() {
 
-    //console.log(time_div)
+
     let i = document.getElementById('hours').value;
     let i2 = document.getElementById('minutes').value;
-console.log(i)
+
 
 function startTimer() {
     if (i <= 0 && i2 <= 0) {
@@ -53,15 +52,12 @@ function startTimer() {
     else if (i2 <= 0) {
         i2 = 59
         i--
-        console.log(i)
         time_div.innerHTML = i + ":" + i2;
         setTimeout(startTimer, 1000);
     }
 
     else {
         i2--
-        console.log('vasya')
-        console.log(i2)
         time_div.innerHTML = i + ":" + i2;
         setTimeout(startTimer, 1000);
     }
