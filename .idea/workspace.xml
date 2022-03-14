@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5b621b3-33f7-4b20-84a0-65f1dfc4cf86" name="Default" comment="updated a bit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="22DtRhRajJyL4FqRkbBrYGd35Et" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.23212537" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b621b3-33f7-4b20-84a0-65f1dfc4cf86" name="Default" comment="" />
+      <created>1635838434869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635838434869</updated>
+      <workItem from="1635838436567" duration="2841000" />
+      <workItem from="1635850950741" duration="6554000" />
+      <workItem from="1636982926977" duration="609000" />
+      <workItem from="1637648438447" duration="599000" />
+      <workItem from="1637732642089" duration="7681000" />
+      <workItem from="1637759237731" duration="2492000" />
+      <workItem from="1637820048213" duration="4968000" />
+      <workItem from="1637845712361" duration="2272000" />
+      <workItem from="1638448282314" duration="4229000" />
+      <workItem from="1638530700931" duration="3322000" />
+      <workItem from="1639133213528" duration="599000" />
+      <workItem from="1639384058149" duration="1589000" />
+      <workItem from="1639504871503" duration="623000" />
+      <workItem from="1639547522154" duration="8057000" />
+      <workItem from="1639565065998" duration="7900000" />
+      <workItem from="1639634087953" duration="13764000" />
+      <workItem from="1639720198132" duration="5840000" />
+      <workItem from="1640092592311" duration="1785000" />
+      <workItem from="1640260240668" duration="2350000" />
+      <workItem from="1640601478392" duration="6457000" />
+      <workItem from="1641210718872" duration="4697000" />
+      <workItem from="1641291750386" duration="4867000" />
+      <workItem from="1643116507199" duration="632000" />
+      <workItem from="1643715504590" duration="1878000" />
+      <workItem from="1643782568340" duration="5458000" />
+      <workItem from="1643799275143" duration="6630000" />
+      <workItem from="1643869478524" duration="6842000" />
+      <workItem from="1643886348339" duration="3307000" />
+      <workItem from="1643958654812" duration="1974000" />
+      <workItem from="1643975976310" duration="834000" />
+      <workItem from="1644214970947" duration="3313000" />
+      <workItem from="1644241241624" duration="573000" />
+      <workItem from="1646138122680" duration="43000" />
+      <workItem from="1646810159383" duration="2409000" />
+      <workItem from="1646824351847" duration="7760000" />
+      <workItem from="1646891700818" duration="4455000" />
+      <workItem from="1646932819293" duration="4000" />
+      <workItem from="1646932858587" duration="366000" />
+      <workItem from="1646933899934" duration="3093000" />
+      <workItem from="1646979692842" duration="4854000" />
+      <workItem from="1646997430394" duration="3551000" />
+      <workItem from="1647165143648" duration="1586000" />
+      <workItem from="1647236665157" duration="1293000" />
+      <workItem from="1647238611634" duration="1869000" />
+      <workItem from="1647240570650" duration="1604000" />
+      <workItem from="1647242297996" duration="2542000" />
+      <workItem from="1647245000133" duration="268000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated a bit">
+      <created>1646983485384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646983485384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated a bit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="291" width="514" height="277" key="#Notifications" timestamp="1647240928012">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="685" y="291" width="514" height="277" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1647240928012" />
+    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1646983484239">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1646983484239" />
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1647242536050">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1647242536050" />
+    <state x="530" y="325" width="391" height="281" key="Github.ShareDialog" timestamp="1647242500991">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="325" width="391" height="281" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1647242500991" />
+    <state x="608" y="133" key="Github.UntrackedFilesDialog" timestamp="1646935741472">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="608" y="133" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1646935741472" />
+    <state x="301" y="60" key="SettingsEditor" timestamp="1647243762860">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1647243762860" />
+    <state x="279" y="157" key="Vcs.Push.Dialog.v2" timestamp="1647242581640">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="279" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1647242581640" />
+    <state x="609" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647165867441">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1647165867441" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
