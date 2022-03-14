@@ -1,0 +1,171 @@
+
+.world{
+    margin: 0;
+    padding: 0;
+    height: calc(100vh - 3px);
+    width: 100%;
+    background-image: url('Pictures/forest.jpg');
+    background-size: 100%;
+}
+
+.menu{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    border: none;
+    opacity: .6;
+    font-size: 0;
+    text-align: -webkit-center;
+}
+
+#forest{
+    height: 100%;
+    width: 25%;
+    background-color: grey;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    box-shadow:20px 20px 50px darkslategrey inset;
+}
+
+#ocean{
+    height: 100%;
+    width: 25%;
+    background-color: grey;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    box-shadow:20px 20px 50px darkslategrey inset;
+}
+
+#rain{
+    height: 100%;
+    width: 25%;
+    background-color: grey;
+    display: inline-block;
+    font-size: 30px;
+    line-height: 50px;
+    box-shadow:20px 20px 50px darkslategrey inset;
+}
+
+#cafe{
+    height: 100%;
+    width: 25%;
+    background-color: grey;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    box-shadow:20px 20px 50px darkslategrey inset;
+}
+
+#forest:hover{
+    background-color: darkslategrey;
+}
+
+#ocean:hover{
+    background-color: #205081;
+}
+
+#rain:hover{
+    background-color: darkslateblue;
+}
+
+#cafe:hover{
+    background-color: hotpink;
+}
+
+#forest:active{
+    background-color: yellow;
+}
+
+#ocean:active{
+    background-color: yellow;
+}
+
+#rain:active{
+    background-color: yellow;
+}
+
+#cafe:active{
+    background-color: yellow;
+}
+
+.menuStyle:active{
+    background-color: yellow;
+}
+.formForTimer{
+
+}
+ #timer{
+    opacity: .8;
+    text-align: center;
+     font-size: x-large;
+     vertical-align: 30%;
+    /*background-color: red;*/
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+    border-radius: 50%;
+    border: solid 5px;
+    backdrop-filter: blur(10px);
+}
+
+.timer > div   {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    display: block;
+    width: 150px;
+}
+
+#play{
+    margin-left:-32px;
+    margin-top: -55px;
+    top: 50%;
+    left: 50%;
+    border: 35px solid transparent; border-left: 50px solid black;
+}
+
+#play:hover{
+    border-left: 50px solid darkslategrey;
+}
+
+ #enter{
+     position: absolute;
+    margin-left: -50px;
+     margin-top: 100px;
+     width: 50px;
+     top: 50%;
+     left: 50%;
+ }
+
+#enter > input{
+    width: 70px;
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    text-align: center;
+    font-size: large;
+}
+
+#enter > form{
+    width: 71px;
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    text-align: center;
+}
+
+
+
+
